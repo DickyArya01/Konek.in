@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Konek.in</string>
+    <string name="search">search bar</string>
+    <string name="search_hint">Input Username</string>
+    <string name="username">Nama User</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="photo_profile">Photo Profile</string>
+    <string name="followers_logo">Logo Followers</string>
+    <string name="following_logo">Logo Following</string>
+    <string name="id">ID</string>
+    <string name="data_empty">Data is Empty</string>
+    <string name="theme_switch">Theme Switch</string>
+    <string name="favourite_item">Favourite Item</string>
+    <string name="mode_switch">Mode Switch</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="light_mode">Light Mode</string>
+    <string name="company">Company</string>
+    <string name="location">Location</string>
+    <string name="repository">Repository</string>
+    <string name="user_profile">User Profile</string>
+    <string name="logo_follower">Logo Follower</string>
+    <string name="logo_following">Logo Following</string>
+    <string name="logo_company">Logo Company</string>
+    <string name="logo_location">Logo Location</string>
+    <string name="null_data">Not yet Described</string>
+    <string name="favourite_indikator">Favourite Indikator</string>
+</resources>
